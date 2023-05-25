@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** ReactJS, NodeJS, UI/UX, Devops and many more...**
 
-- 💬 Ask me about **Data Structures and Algorithms, Object Oriented Programming (OOPS), DBMS, Operating Systems, Computer Networks, Data Analytics, Data pre-processing, Stats, EDA**
+- 💬 Ask me about **Data Structures and Algorithms, Object Oriented Programming (OOPS), DBMS, Operating Systems, Computer Networks, SQL **
 
 - 📫 You can reach me on **ajoykumarpujari@gmail.com**
 
