@@ -19,6 +19,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AjoyKumarPujari&theme=radical)](https://git.io/streak-stats)
 [![Ajoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjoyKumarPujari)](https://github.com/anuraghazra/github-readme-stats)
-
+![Ajoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjoyKumarPujari&show_icons=true&theme=radical)
 
 
