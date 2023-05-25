@@ -18,7 +18,7 @@
 <a href="http://www.linkedin.com/in/ajoykumarpujari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AjoyKumarPujari" height="30" width="40" /></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AjoyKumarPujari&theme=radical)](https://git.io/streak-stats)
-
+[![Ajoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjoyKumarPujari)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
